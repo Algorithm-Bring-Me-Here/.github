@@ -66,10 +66,10 @@
 		 과제
 	</td>
 	<td>
-    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/176963">Lv.1 추억점수</a>
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/176963">추억점수</a>
 	</td>
   <td>
-    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12985">Lv.2 예상 대진표</a>
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12985">예상 대진표</a>
   </td>
 </tr>
 <tr>
