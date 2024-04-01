@@ -8,7 +8,11 @@
 ```
 
 ## 👨‍👩‍👧‍👦 Members
-모집중...   
+|<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/75840431?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/106955456?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/91470334?v=4" width="128" />| <img src="https://avatars.githubusercontent.com/u/98209004?v=4" width="128" />| 
+|:---------:|:---------:|:---------:|:---------:|:---------:|
+|[👑박동민](https://github.com/chattymin)|[김명석](https://github.com/cacaocoffee)|[배찬우](https://github.com/chanubc)|[이가을](https://github.com/gaeulzzang)|[박효빈](https://github.com/Hyobeen-Park)|
+|<img src="https://avatars.githubusercontent.com/u/97820109?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/113014331?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/113578158?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/77060011?v=4" width="128" />| <img src="https://avatars.githubusercontent.com/u/137160756?v=4" width="128" />| 
+|[김아린](https://github.com/arinming)|[우상욱](https://github.com/Sangwook123)|[이준희](https://github.com/l2zh)|[이다은](https://github.com/Dan2dani)|[손민재](https://github.com/SYAAINN)|
 </br>
 
 ## 📖 어떻게 공부해요?
@@ -39,5 +43,47 @@
 </br>
 
 ## 🧾 과제 목차
-- 작성 예정...
+<table align="center" width=100%>
+<tr>
+  <td rowspan="3" colspan="2" align="center">
+		<b>WEEK 1</b>
+		<br>
+		 4/2 ~ 4/14
+	</td>
+  <td>
+    
+  </td>
+  <td colspan="2" align="center">
+    Lv. 1
+  </td>
+  <td colspan="2" align="center">
+    Lv. 2
+  </td>
+</tr>
+<tr>
+	<td colspan="2" align="center">
+		 과제
+	</td>
+	<td>
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/176963">Lv.1 추억점수</a>
+	</td>
+  <td>
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12985">Lv.2 예상 대진표</a>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" align="center">
+    풀이
+  </td>
+  <td align="center">
+		🔥
+	</td>
+  <td align="center">
+    🔥
+  </td>
+</tr>
+</table>
 
+
+</br>
+</br>
