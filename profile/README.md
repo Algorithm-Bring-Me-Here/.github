@@ -46,7 +46,7 @@
 ## 🧾 과제 목차
 <table align="center" width=100%>
 <tr>
-  <td rowspan="3" colspan="2" align="center">
+  <td rowspan="2" colspan="2" align="center">
 		<b>WEEK 1</b>
 		<br>
 		 4/2 ~ 4/14
@@ -73,14 +73,30 @@
   </td>
 </tr>
 <tr>
-  <td colspan="2" align="center">
-    풀이
-  </td>
-  <td align="center">
-		🔥
+  <td rowspan="2" colspan="2" align="center">
+		<b>WEEK 2</b>
+		<br>
+		 4/15 ~ 4/21
 	</td>
-  <td align="center">
-    🔥
+  <td>
+    
+  </td>
+  <td colspan="2" align="center">
+    Lv. 1
+  </td>
+  <td colspan="2" align="center">
+    Lv. 2
+  </td>
+</tr>
+<tr>
+	<td colspan="2" align="center">
+		 과제
+	</td>
+	<td>
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133499">옹알이 (2)</a>
+	</td>
+  <td>
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587">프로세스</a>
   </td>
 </tr>
 </table>
