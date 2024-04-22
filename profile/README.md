@@ -78,7 +78,7 @@
   <td rowspan="2" colspan="2" align="center">
 		<b>WEEK 2</b>
 		<br>
-		 4/15 ~ 4/21
+		 4/15 ~ 4/22
 	</td>
   <td colspan="2" align="center">
 		 난이도
@@ -105,9 +105,9 @@
 </tr>
 <tr>
   <td rowspan="2" colspan="2" align="center">
-		<b>WEEK 2</b>
+		<b>WEEK 3</b>
 		<br>
-		 4/15 ~ 4/21
+		 4/23 ~ 4/29
 	</td>
   <td colspan="2" align="center">
 		 난이도
