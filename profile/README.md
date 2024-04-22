@@ -51,13 +51,15 @@
 		<br>
 		 4/2 ~ 4/14
 	</td>
-  <td>
+  <td colspan="2" align="center">
+		 난이도
+	</td>
     
   </td>
-  <td colspan="2" align="center">
+  <td colspan="1" align="center">
     Lv. 1
   </td>
-  <td colspan="2" align="center">
+  <td colspan="1" align="center">
     Lv. 2
   </td>
 </tr>
@@ -65,10 +67,10 @@
 	<td colspan="2" align="center">
 		 과제
 	</td>
-	<td>
+	<td align="center">
     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/176963">추억점수</a>
 	</td>
-  <td>
+  <td align="center">
     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12985">예상 대진표</a>
   </td>
 </tr>
@@ -78,13 +80,15 @@
 		<br>
 		 4/15 ~ 4/21
 	</td>
-  <td>
+  <td colspan="2" align="center">
+		 난이도
+	</td>
     
   </td>
-  <td colspan="2" align="center">
+  <td colspan="1" align="center">
     Lv. 1
   </td>
-  <td colspan="2" align="center">
+  <td colspan="1" align="center">
     Lv. 2
   </td>
 </tr>
@@ -92,11 +96,40 @@
 	<td colspan="2" align="center">
 		 과제
 	</td>
-	<td>
+	<td align="center">
     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/133499">옹알이 (2)</a>
 	</td>
-  <td>
+  <td align="center">
     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587">프로세스</a>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2" colspan="2" align="center">
+		<b>WEEK 2</b>
+		<br>
+		 4/15 ~ 4/21
+	</td>
+  <td colspan="2" align="center">
+		 난이도
+	</td>
+    
+  </td>
+  <td colspan="1" align="center">
+    Lv. 1
+  </td>
+  <td colspan="1" align="center">
+    Lv. 2
+  </td>
+</tr>
+<tr>
+	<td colspan="2" align="center">
+		 과제
+	</td>
+	<td align="center">
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77484">로또의 최고순위와 최저순위</a>
+	</td>
+  <td align="center">
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a>
   </td>
 </tr>
 </table>
