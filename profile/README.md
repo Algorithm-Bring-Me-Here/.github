@@ -63,6 +63,8 @@
     Lv. 2
   </td>
 </tr>
+
+
 <tr>
 	<td colspan="2" align="center">
 		 과제
@@ -92,6 +94,8 @@
     Lv. 2
   </td>
 </tr>
+
+
 <tr>
 	<td colspan="2" align="center">
 		 과제
@@ -103,6 +107,8 @@
     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587">프로세스</a>
   </td>
 </tr>
+
+
 <tr>
   <td rowspan="2" colspan="2" align="center">
 		<b>WEEK 3</b>
@@ -121,6 +127,8 @@
     Lv. 2
   </td>
 </tr>
+
+
 <tr>
 	<td colspan="2" align="center">
 		 과제
@@ -132,6 +140,39 @@
     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a>
   </td>
 </tr>
+
+
+<tr>
+  <td rowspan="2" colspan="2" align="center">
+		<b>WEEK 4</b>
+		<br>
+		 4/30 ~ 5/6
+	</td>
+  <td colspan="2" align="center">
+		 난이도
+	</td>
+    
+  </td>
+  <td colspan="1" align="center">
+    Lv. 1
+  </td>
+  <td colspan="1" align="center">
+    Lv. 2
+  </td>
+</tr>
+<tr>
+	<td colspan="2" align="center">
+		 과제
+	</td>
+	<td align="center">
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64061">크레인 인형뽑기 게임</a>
+	</td>
+  <td align="center">
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578">의상</a>
+  </td>
+</tr>
+
+
 </table>
 
 
