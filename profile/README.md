@@ -202,6 +202,35 @@
   </td>
 </tr>
 
+<tr>
+  <td rowspan="2" colspan="2" align="center">
+		<b>WEEK 6</b>
+		<br>
+		 5/14 ~ 5/20
+	</td>
+  <td colspan="2" align="center">
+		 난이도
+	</td>
+    
+  </td>
+  <td colspan="1" align="center">
+    Lv. 1
+  </td>
+  <td colspan="1" align="center">
+    Lv. 2
+  </td>
+</tr>
+<tr>
+	<td colspan="2" align="center">
+		 과제
+	</td>
+	<td align="center">
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118666">성격 유형 검사하기</a>
+	</td>
+  <td align="center">
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77885">2개 이하로 다른 비트</a>
+  </td>
+</tr>
 </table>
 
 
