@@ -8,6 +8,16 @@
 ```
 
 ## 👨‍👩‍👧‍👦 Members
+|<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/75840431?v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/97820109?v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/113578158?v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/97405341?v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/93872496?v=4" width="128" />|
+|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+|[👑박동민](https://github.com/chattymin)|[김명석](https://github.com/cacaocoffee)|[김아린](https://github.com/arinming)|[이준희](https://github.com/l2zh)|[김상호](https://github.com/Marchbreeze)|[곽의진](https://github.com/Marchbreeze)|
+
+</br>
+
+
+<details>
+<summary>1기 멤버</summary>
+
 |<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/75840431?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/106955456?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/91470334?v=4" width="128" />| <img src="https://avatars.githubusercontent.com/u/98209004?v=4" width="128" />| 
 |:---------:|:---------:|:---------:|:---------:|:---------:|
 |[👑박동민](https://github.com/chattymin)|[김명석](https://github.com/cacaocoffee)|[배찬우](https://github.com/chanubc)|[이가을](https://github.com/gaeulzzang)|[박효빈](https://github.com/Hyobeen-Park)|
@@ -15,17 +25,19 @@
 |[김아린](https://github.com/arinming)|[우상욱](https://github.com/Sangwook123)|[이준희](https://github.com/l2zh)|[이다은](https://github.com/Dan2dani)|[손민재](https://github.com/SYAAINN)|
 </br>
 
+</details>
+
 ## 📖 어떻게 공부해요?
 - 매주 `과제`를 내줍니다.
 - 그 문제를 풀어오고, `풀이방법을 공유`합니다.
-- `일주일에 1번 비대면`으로 디스코드에서 발표자를 선정하여 자신의 코드를 발표하고 의견을 공유을 합니다.
+- `일주일에 1명 이상 코드리뷰`를 작성하며 서로의 코드를 공부합니다.
 </br>
 
 ## 📄 과제가 어떤가요?
 - 프로그래머스 `Lv.1`과 `Lv.2` 정도의 난이도로 구성할 예정입니다.
 - 사용하는 언어는 `자유`입니다.
 - 단, 자유 언어이기 때문에 `모두가 이해`할 수 있도록 `주석`을 달거나 `설명`을 해야합니다.
-- `일주일에 2개` 정도 풀 예정입니다. 물론 상황에 따라 조정 될수도?!?!?!
+- `일주일에 3개` 풀 예정입니다.
 </br>
 
 ## 📚 과제 제출 방식
@@ -33,17 +45,61 @@
 - feat/week1 등 새 브렌치를 만들고 과제를 진행해주세요.
 - 각 레벨에 맞는 폴더에 PR해주세요
 - PR에 `통과 사진` 포함되어야 합니다.
-- 과제는 다음 스터디 시작일 `하루 전까지` 완료하셔야 합니다. </br>ex) 4월 2일 스터디 진행 -> 4월 1일까지 과제 제출
+- 과제는 다음 스터디 시작일 `하루 전까지` 완료하셔야 합니다. </br>ex) 월요일 스터디 시작 -> 토요일까지 과제 제출 -> 일요일까지 코드리뷰 작성
 - 서로의 코드중 궁금한 부분에 `리뷰`를 달고 답변하며 공부합니다!   
 </br>
 
 ## 😭 과제 못해오면 어떡해요 ㅠㅠ
 - 어떡하긴요. `벌금`입니다.
-- `한문제당 1000원`으로 벌금을 걷을 예정입니다.
+- `한문제당 2000원`으로 벌금을 걷을 예정입니다.
+- 코드리뷰를 진행하지 않을 시에도 `2000원의 벌금`이 있습니다.
 - 그렇게 모은 돈은 스터디 끝날때 `회식 지원금`으로 사용할 예정이니 많이들 문제 **못풀어오시길** 바랍니다
 </br>
 
 ## 🧾 과제 목차
+<table align="center" width=100%>
+<tr>
+  <td rowspan="2" colspan="2" align="center">
+		<b>WEEK 1</b>
+		<br>
+		 9/2 ~ 9/7
+	</td>
+  <td colspan="2" align="center">
+		 난이도
+	</td>
+    
+  </td>
+  <td colspan="1" align="center">
+    Lv. 1
+  </td>
+  <td colspan="1" align="center">
+    ???
+  </td>
+  <td colspan="1" align="center">
+    ???
+  </td>
+</tr>
+<tr>
+	<td colspan="2" align="center">
+		 과제
+	</td>
+	<td align="center">
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/159994">카드뭉치</a>
+	</td>
+  <td align="center">
+    ???
+  </td>
+	<td align="center">
+    ???
+  </td>
+</tr>
+</table>
+
+
+
+
+<details>
+<summary>1기 과제</summary>
 <table align="center" width=100%>
 <tr>
   <td rowspan="2" colspan="2" align="center">
@@ -232,7 +288,7 @@
   </td>
 </tr>
 </table>
-
+</details>
 
 </br>
 </br>
