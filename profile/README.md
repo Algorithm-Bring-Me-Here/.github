@@ -8,9 +8,11 @@
 ```
 
 ## 👨‍👩‍👧‍👦 Members
-|<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/75840431?v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/97820109?v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/113578158?v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/97405341?v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/93872496?v=4" width="128" />|
-|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-|[👑박동민](https://github.com/chattymin)|[김명석](https://github.com/cacaocoffee)|[김아린](https://github.com/arinming)|[이준희](https://github.com/l2zh)|[김상호](https://github.com/Marchbreeze)|[곽의진](https://github.com/Marchbreeze)|
+|<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/75840431?v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/97820109?v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/113578158?v=4" width="128" /> |
+|:---------:|:---------:|:---------:|:---------:|
+|[👑박동민](https://github.com/chattymin)|[김명석](https://github.com/cacaocoffee)|[김아린](https://github.com/arinming)|[이준희](https://github.com/l2zh)|
+| <img src="https://avatars.githubusercontent.com/u/97405341?v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/93872496?v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/85223787?v=4" width="128" />|
+|[김상호](https://github.com/Marchbreeze)|[곽의진](https://github.com/Marchbreeze)|[강문수](https://github.com/MoonsuKang)|
 
 </br>
 
@@ -92,7 +94,41 @@
 	<td align="center">
     ???
   </td>
+
+<tr>
+	<td rowspan="2" colspan="2" align="center">
+		<b>WEEK 2</b>
+		<br>
+		 9/9 ~ 9/14
+	</td>
+  	<td colspan="2" align="center">
+		 난이도
+	</td>
+  	<td colspan="1" align="center">
+    		Lv. 1
+  	</td>
+  	<td colspan="1" align="center">
+    		Lv. 1
+  	</td>
+  	<td colspan="1" align="center">
+    		???
+  	</td>
 </tr>
+<tr>
+	<td colspan="2" align="center">
+		 과제
+	</td>
+	<td align="center">
+    		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/135808">과일 장수</a>
+	</td>
+  	<td align="center">
+    		<a href="">키패드 누르기</a>
+  	</td>
+	<td align="center">
+    		???
+  	</td>
+</tr>
+
 </table>
 
 
