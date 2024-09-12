@@ -122,7 +122,7 @@
     		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/135808">과일 장수</a>
 	</td>
   	<td align="center">
-    		<a href="">키패드 누르기</a>
+    		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/67256">키패드 누르기</a>
   	</td>
 	<td align="center">
     		???
