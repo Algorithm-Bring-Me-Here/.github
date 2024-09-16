@@ -129,6 +129,40 @@
   	</td>
 </tr>
 
+<tr>
+	<td rowspan="2" colspan="2" align="center">
+		<b>WEEK 3</b>
+		<br>
+		 9/16 ~ 9/21
+	</td>
+  	<td colspan="2" align="center">
+		 난이도
+	</td>
+  	<td colspan="1" align="center">
+    		Lv. 1
+  	</td>
+  	<td colspan="1" align="center">
+    		???
+  	</td>
+  	<td colspan="1" align="center">
+    		???
+  	</td>
+</tr>
+<tr>
+	<td colspan="2" align="center">
+		 과제
+	</td>
+	<td align="center">
+    		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/72410">신규 아이디 추천</a>
+	</td>
+  	<td align="center">
+    		추석이라
+  	</td>
+	<td align="center">
+    		한문제만!
+  	</td>
+</tr>
+
 </table>
 
 
