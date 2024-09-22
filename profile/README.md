@@ -163,6 +163,41 @@
   	</td>
 </tr>
 
+
+<tr>
+	<td rowspan="2" colspan="2" align="center">
+		<b>WEEK 4</b>
+		<br>
+		 9/23 ~ 9/28
+	</td>
+  	<td colspan="2" align="center">
+		 난이도
+	</td>
+  	<td colspan="1" align="center">
+    		Lv. 1
+  	</td>
+  	<td colspan="1" align="center">
+    		Lv. 1
+  	</td>
+  	<td colspan="1" align="center">
+    		Lv. 2
+  	</td>
+</tr>
+<tr>
+	<td colspan="2" align="center">
+		 과제
+	</td>
+	<td align="center">
+    		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/136798">기사단원의 무기</a>
+	</td>
+  	<td align="center">
+    		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/340213">[PCCP 기출문제] 1번 / 동영상 재생기</a>
+  	</td>
+	<td align="center">
+		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/70129">이진 변환 반복하기</a>
+  	</td>
+</tr>
+
 </table>
 
 
