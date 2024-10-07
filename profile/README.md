@@ -203,7 +203,7 @@
 	<td rowspan="2" colspan="2" align="center">
 		<b>WEEK 5</b>
 		<br>
-		 10/30 ~ 10/05
+		 9/30 ~ 10/05
 	</td>
   	<td colspan="2" align="center">
 		 난이도
@@ -230,6 +230,40 @@
   	</td>
 	<td align="center">
 		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/92335">k진수에서 소수 개수 구하기</a>
+  	</td>
+</tr>
+
+<tr>
+	<td rowspan="2" colspan="2" align="center">
+		<b>WEEK 5</b>
+		<br>
+		 10/7 ~ 10/12
+	</td>
+  	<td colspan="2" align="center">
+		 난이도
+	</td>
+  	<td colspan="1" align="center">
+    		Lv. 1
+  	</td>
+  	<td colspan="1" align="center">
+    		Lv. 1
+  	</td>
+  	<td colspan="1" align="center">
+    		Lv. 2
+  	</td>
+</tr>
+<tr>
+	<td colspan="2" align="center">
+		 과제
+	</td>
+	<td align="center">
+    		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840">모의고사</a>
+	</td>
+  	<td align="center">
+    		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/178871">달리기 경주</a>
+  	</td>
+	<td align="center">
+		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842">카펫</a>
   	</td>
 </tr>
 
