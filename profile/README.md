@@ -11,8 +11,8 @@
 |<img src="https://avatars.githubusercontent.com/u/52882799?s=70&v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/75840431?v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/97820109?v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/113578158?v=4" width="128" /> |
 |:---------:|:---------:|:---------:|:---------:|
 |[👑박동민](https://github.com/chattymin)|[김명석](https://github.com/cacaocoffee)|[김아린](https://github.com/arinming)|[이준희](https://github.com/l2zh)|
-| <img src="https://avatars.githubusercontent.com/u/97405341?v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/93872496?v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/85223787?v=4" width="128" />|
-|[김상호](https://github.com/Marchbreeze)|[곽의진](https://github.com/Marchbreeze)|[강문수](https://github.com/MoonsuKang)|
+| <img src="https://avatars.githubusercontent.com/u/97405341?v=4" width="128" /> | <img src="https://avatars.githubusercontent.com/u/85223787?v=4" width="128" />|
+|[김상호](https://github.com/Marchbreeze)|[강문수](https://github.com/MoonsuKang)|
 
 </br>
 
@@ -264,6 +264,74 @@
   	</td>
 	<td align="center">
 		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842">카펫</a>
+  	</td>
+</tr>
+
+<tr>
+	<td rowspan="2" colspan="2" align="center">
+		<b>WEEK 6</b>
+		<br>
+		 10/14 ~ 10/19
+	</td>
+  	<td colspan="2" align="center">
+		 난이도
+	</td>
+  	<td colspan="1" align="center">
+    		-
+  	</td>
+  	<td colspan="1" align="center">
+    		-
+  	</td>
+  	<td colspan="1" align="center">
+    		-
+  	</td>
+</tr>
+<tr>
+	<td colspan="2" align="center">
+		 과제
+	</td>
+	<td align="center">
+    		시험기간이라
+	</td>
+  	<td align="center">
+    		쉬어가요~
+  	</td>
+	<td align="center">
+		👏
+  	</td>
+</tr>
+
+<tr>
+	<td rowspan="2" colspan="2" align="center">
+		<b>WEEK 7</b>
+		<br>
+		 10/21 ~ 10/26
+	</td>
+  	<td colspan="2" align="center">
+		 난이도
+	</td>
+  	<td colspan="1" align="center">
+    		Lv. 1
+  	</td>
+  	<td colspan="1" align="center">
+    		Lv. 1
+  	</td>
+  	<td colspan="1" align="center">
+    		Lv. 2
+  	</td>
+</tr>
+<tr>
+	<td colspan="2" align="center">
+		 과제
+	</td>
+	<td align="center">
+    		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12977">소수만들기</a>
+	</td>
+  	<td align="center">
+    		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/172928">공원 산책</a>
+  	</td>
+	<td align="center">
+		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/68936">쿼드압축 후 개수 세기</a>
   	</td>
 </tr>
 
