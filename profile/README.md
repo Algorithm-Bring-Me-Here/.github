@@ -268,37 +268,15 @@
 </tr>
 
 <tr>
-	<td rowspan="2" colspan="2" align="center">
+	<td rowspan="1" colspan="2" align="center">
 		<b>WEEK 6</b>
 		<br>
 		 10/14 ~ 10/19
 	</td>
-  	<td colspan="2" align="center">
-		 난이도
+  	<td rowspan="1" colspan="5" align="center">
+		 시험기간이라 쉬어가요~ 👏
 	</td>
-  	<td colspan="1" align="center">
-    		-
-  	</td>
-  	<td colspan="1" align="center">
-    		-
-  	</td>
-  	<td colspan="1" align="center">
-    		-
-  	</td>
-</tr>
-<tr>
-	<td colspan="2" align="center">
-		 과제
-	</td>
-	<td align="center">
-    		시험기간이라
-	</td>
-  	<td align="center">
-    		쉬어가요~
-  	</td>
-	<td align="center">
-		👏
-  	</td>
+  	
 </tr>
 
 <tr>
@@ -332,6 +310,40 @@
   	</td>
 	<td align="center">
 		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/68936">쿼드압축 후 개수 세기</a>
+  	</td>
+</tr>
+
+<tr>
+	<td rowspan="2" colspan="2" align="center">
+		<b>WEEK 8</b>
+		<br>
+		 10/28 ~ 11/02
+	</td>
+  	<td colspan="2" align="center">
+		 난이도
+	</td>
+  	<td colspan="1" align="center">
+    		Lv. 1
+  	</td>
+  	<td colspan="1" align="center">
+    		Lv. 2
+  	</td>
+  	<td colspan="1" align="center">
+    		Lv. 2
+  	</td>
+</tr>
+<tr>
+	<td colspan="2" align="center">
+		 과제
+	</td>
+	<td align="center">
+    		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/161989">덧칠하기</a>
+	</td>
+  	<td align="center">
+    		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12951">JadenCase 문자열 만들기</a>
+  	</td>
+	<td align="center">
+		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/84512">쿼드압축 후 개수 세기</a>
   	</td>
 </tr>
 
