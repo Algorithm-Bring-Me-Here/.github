@@ -343,7 +343,7 @@
     		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12951">JadenCase 문자열 만들기</a>
   	</td>
 	<td align="center">
-		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/84512">쿼드압축 후 개수 세기</a>
+		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/84512">모음사전</a>
   	</td>
 </tr>
 
