@@ -347,6 +347,40 @@
   	</td>
 </tr>
 
+<tr>
+	<td rowspan="2" colspan="2" align="center">
+		<b>WEEK 9</b>
+		<br>
+		 11/04 ~ 11/09
+	</td>
+  	<td colspan="2" align="center">
+		 난이도
+	</td>
+  	<td colspan="1" align="center">
+    		Lv. 1
+  	</td>
+  	<td colspan="1" align="center">
+    		Lv. 1
+  	</td>
+  	<td colspan="1" align="center">
+    		Lv. 2
+  	</td>
+</tr>
+<tr>
+	<td colspan="2" align="center">
+		 과제
+	</td>
+	<td align="center">
+    		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/140108">문자열 나누기</a>
+	</td>
+  	<td align="center">
+    		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/258712">가장 많이 받은 선물</a>
+  	</td>
+	<td align="center">
+		<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12939">최댓값과 최솟값</a>
+  	</td>
+</tr>
+
 </table>
 
 
